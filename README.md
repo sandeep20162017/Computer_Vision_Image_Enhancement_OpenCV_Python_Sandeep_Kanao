@@ -1,2 +1,4 @@
 # Computer_Vision_Image_Enhancement_OpenCV_Python_Sandeep_Kanao
 Computer_Vision_Image_Enhancement_OpenCV_Python_Sandeep_Kanao
+
+python Image-Sketch-OpenCV-Sandeep-Kanao.py
